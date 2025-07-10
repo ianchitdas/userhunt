@@ -12,7 +12,7 @@ UserHunt is a lightweight, open-source OSINT (Open Source Intelligence) CLI tool
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourname/userhunt.git
+   git clone https://github.com/ianchitdas/userhunt.git
    cd userhunt
    ```
 2. **Install dependencies and the CLI tool:**
