@@ -8,7 +8,7 @@ setup(
         'requests',
         'pyfiglet'
     ],
-    entry_points={
+    entry_points={ 
         'console_scripts': [
             'userhunt = userhunt.__main__:main'
         ],
